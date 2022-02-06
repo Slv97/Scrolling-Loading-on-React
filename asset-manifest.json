@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scrolling-Loading-on-React/static/css/main.65fdc9f8.css",
+    "main.js": "/Scrolling-Loading-on-React/static/js/main.d22a78c2.js",
+    "static/js/787.4ee2cfa1.chunk.js": "/Scrolling-Loading-on-React/static/js/787.4ee2cfa1.chunk.js",
+    "index.html": "/Scrolling-Loading-on-React/index.html",
+    "main.65fdc9f8.css.map": "/Scrolling-Loading-on-React/static/css/main.65fdc9f8.css.map",
+    "main.d22a78c2.js.map": "/Scrolling-Loading-on-React/static/js/main.d22a78c2.js.map",
+    "787.4ee2cfa1.chunk.js.map": "/Scrolling-Loading-on-React/static/js/787.4ee2cfa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fdc9f8.css",
+    "static/js/main.d22a78c2.js"
+  ]
+}
